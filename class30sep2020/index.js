@@ -1,1 +1,1 @@
-console.log('my new class 30 sep2020');
+console.log('my new class 30');
