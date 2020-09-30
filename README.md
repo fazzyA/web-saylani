@@ -8,3 +8,7 @@
 ### HW for 29sep
 <https://www.youtube.com/watch?v=dHmwopKe1xk&list=PLbGui_ZYuhij_HswuaGK-ABs1vfC5HTKn&index=5>
 
+### Assigment template to make(in class we will make this in bootstrap)
+#### Get ready for real world practice now. see u in class
+<https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp>
+
