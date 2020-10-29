@@ -18,4 +18,6 @@
 ## 10 What will be the output in variables a, b & result after execution of the following script: var a = 2, b = 1;  var result = --a - --b + ++b + b--;  Explain the output at each stage:  --a;  --a - --b;  --a - --b + ++b;  --a - --b + ++b + b--;  
 ## 11 Write a program to take “city” name as input from user. If user enters “Karachi”, welcome the user like this: “Welcome to city of lights” if enter lahore, display "welcome to historical city" if Quetta display message "welcome to cold city"
 ## 12 Write a program to create a calculator for +,-,*, / & % using if statements.  Take the following input:  a. First number  b. Second number  c. Operation (+, -, *, /, %)    Compute & show the calculated result to user.
+## 13 Write a program to take user salary as an input  if salary is less than 60000 than print "you are a junior developer" if salary is higher or equal to than 60000 "You are a web developer"  if higher equal to 100000 then print message "you are a software engineer"
+## 14 
   
