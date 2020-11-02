@@ -10,4 +10,9 @@
 ### use Array.splice() to replace and edit index in array  print courses array in alertexample: alert(courses).
 ## Create a function that take array input and make each element double and then return an array (use for loop)
 ## Create a function that take array input and make each element double and then return an array (use foreach)
+## (function(){
+  var a = b = 3;
+  })();
+  console.log("a defined? " + (typeof a !== 'undefined'));
+  console.log("b defined? " + (typeof b !== 'undefined'));
 
