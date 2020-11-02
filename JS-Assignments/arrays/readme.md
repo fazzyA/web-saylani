@@ -8,3 +8,6 @@
 ### print courses array in alertexample: alert(courses)  print all full 5-course name one by one in prompt. example: course1=prompt(course1, course1Value)
 ### If the user edit any value (through prompt), then that value is edit in the array.  example: course1=prompt(course1, course1ValueEdit)
 ### use Array.splice() to replace and edit index in array  print courses array in alertexample: alert(courses).
+## Create a function that take array input and make each element double and then return an array (use for loop)
+## Create a function that take array input and make each element double and then return an array (use foreach)
+
