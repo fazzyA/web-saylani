@@ -19,5 +19,6 @@
 ## 11 Write a program to take “city” name as input from user. If user enters “Karachi”, welcome the user like this: “Welcome to city of lights” if enter lahore, display "welcome to historical city" if Quetta display message "welcome to cold city"
 ## 12 Write a program to create a calculator for +,-,*, / & % using if statements.  Take the following input:  a. First number  b. Second number  c. Operation (+, -, *, /, %)    Compute & show the calculated result to user.
 ## 13 Write a program to take user salary as an input  if salary is less than 60000 than print "you are a junior developer" if salary is higher or equal to than 60000 "You are a web developer"  if higher equal to 100000 then print message "you are a software engineer"
-## 14 
-  
+## 14 Write a JavaScript function to format a number up to specified decimal places. Go to the editor  Test Data :  console.log(decimals(2.100212, 2));  //"2.10"  console.log(decimals(2.100212, 3)); //2.100  console.log(decimals(2100, 2)); // 2100.00
+## 15 write a function that generates random number between given two inputs
+
