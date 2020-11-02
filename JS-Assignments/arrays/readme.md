@@ -17,7 +17,7 @@
   console.log("a defined? " + (typeof a !== 'undefined'));
   console.log("b defined? " + (typeof b !== 'undefined'));
  ## Write a JavaScript function that accepts a string as a parameter and counts the number of vowels within the string.
- ## Write a JavaScript function that reverse a number. Go to the editor
+ ## Write a JavaScript function that reverse a number. 
 Example x = 32243;
 Expected Output : 34223
 ##
