@@ -19,6 +19,11 @@
 ## 11 Write a program to take “city” name as input from user. If user enters “Karachi”, welcome the user like this: “Welcome to city of lights” if enter lahore, display "welcome to historical city" if Quetta display message "welcome to cold city"
 ## 12 Write a program to create a calculator for +,-,*, / & % using if statements.  Take the following input:  a. First number  b. Second number  c. Operation (+, -, *, /, %)    Compute & show the calculated result to user.
 ## 13 Write a program to take user salary as an input  if salary is less than 60000 than print "you are a junior developer" if salary is higher or equal to than 60000 "You are a web developer"  if higher equal to 100000 then print message "you are a software engineer"
-## 14 Write a JavaScript function to format a number up to specified decimal places. Go to the editor  Test Data :  console.log(decimals(2.100212, 2));  //"2.10"  console.log(decimals(2.100212, 3)); //2.100  console.log(decimals(2100, 2)); // 2100.00
+## 14 Write a program that takes string and find exclaimation point in the string.(use charAt and indexOf)
+## 15 Write a program that takes string and find if user has given two spaces. wirte the msg "2 spaces found" if there are two spaces in the text
+## 16 write a program that serach the word "the brown fox" in the paragraph "the quick brown fox jumps over the lazy dog" and replace it with "the white cat"  use slice method and then make it with builtin function)
+## 15 Write a JavaScript function to format a number up to specified decimal places. Go to the editor  Test Data :  console.log(decimals(2.100212, 2));  //"2.10"  console.log(decimals(2.100212, 3)); //2.100  console.log(decimals(2100, 2)); // 2100.00
 ## 15 write a function that generates random number between given two inputs
+## write a function that generates number between 1-10 and find the item in array witrh index of this number.  for example if random number 5 is generated it will return item in array with 5 index.  [11, 22 , 33, 44, 55, 66, 77, 88, 99,10] "your item at index 5 is 66"
+
 
