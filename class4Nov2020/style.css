@@ -1,0 +1,22 @@
+.heading{
+    color: #3266ce;
+    font-size: 32px;
+}
+.sub{
+    color:grey;
+}
+input{
+    width: 400px;
+    padding: 8px;
+    color: grey;
+    border-radius: 5px;
+
+}
+.loginbtn{
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    padding :10px 15px 10px 15px;
+
+
+}
