@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="new.js"></script>
+</head>
+<body>
+    <!-- <a href="Javascript:void(0)" onclick="dispalyDate()">Click</a>
+    <button onclick="count()">I am button</button>
+    <h1 onclick="this.style.color='pink';">Clickable heading</h1> -->
+    <!-- <img src="../before.jpg" 
+    onmouseover="src='../after.jpg'" 
+    onmouseout="src='../before.jpg'">
+
+    <h1 onmouseover="this.style.color='grey'" 
+    onmouseout="this.style.color='rgb(114, 53, 53)'">Heading</h1>
+    <input type="text" 
+    onfocus="this.style.backgroundColor='green'"
+    onblur="this.style.backgroundColor='white'"> -->
+    <!-- <h1 id="ff" name='yy' class="heading">My heading</h1>
+    <h1 id="myh2"  name='yy'>My heading</h1>
+    <p id='para'>My dummy text</p>
+    <button onclick="doo();">Click me</button> -->
+    <form onsubmit="return check()">
+        <input type="text" id="name" name="name">
+        <input type="email" name="email" id="email">
+        <input type="submit" value="submit">
+    </form>
+    <!-- 1.make a form with fields of country and city
+        2. when form is submitted, check the name of the country
+        3. if Pakistan is value then city is automatically karachi
+        4. if USA then in city it should be New york
+    -->
+    <form onsubmit="" method="post">
+        <input type="text" id="country" onblur="check2()" name="country">
+        <input type="text" name="city" id="city">
+        <input type="submit" value="submit">
+    </form>
+
+</body>
+</html>
