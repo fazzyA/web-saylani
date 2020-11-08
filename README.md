@@ -11,4 +11,6 @@
 ### Assigment template to make(in class we will make this in bootstrap)
 #### Get ready for real world practice now. see u in class
 <https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp>
+## Presentation topics
+<https://docs.google.com/spreadsheets/d/1AcDNCsozaDlMr_Ug_76XVJbyjK6I97HGHsMOSuiPYwY/edit#gid=0>
 
