@@ -2,7 +2,8 @@
 ## make following para invisible on button click by setting class by JS
 ``` <p class='blue'>Hello i am here</p> ```
 ## replace Kuwait with Sydney with the help of JS
-``` <div id='country'>
+``` 
+<div id='country'>
  <p>Pakistan</p>
  <p>Australia</p>
 </div>
