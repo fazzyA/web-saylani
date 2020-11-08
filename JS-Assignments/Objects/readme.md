@@ -22,5 +22,4 @@ Sample Output: name,sclass,rollno
         title: 'Mockingjay: The Final Book of The Hunger Games',
         author: 'Suzanne Collins',
         readingStatus: false
-    }]; 
-    ```
+    }]; ```
