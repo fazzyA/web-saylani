@@ -1,7 +1,7 @@
 # Events and Dom excersizes
-## make following para invisible on button click by setting class by JS
+## 1. make following para invisible on button click by setting class by JS
 ``` <p class='blue'>Hello i am here</p> ```
-## replace Kuwait with Sydney with the help of JS
+## 2. replace Kuwait with Sydney with the help of JS
 ``` 
 <div id='country'>
  <p>Pakistan</p>
@@ -12,4 +12,4 @@
  <p>Kuwait</p>
 </div>
 ```
-## Add in above code; Add USA in country list, add newyork in city list
+## 3. Add in above code; Add USA in country list, add newyork in city list
