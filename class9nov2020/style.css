@@ -1,0 +1,14 @@
+.myimg{
+    width: 300px;
+    height: 300px;
+}
+.invisible{
+    display:none;
+}
+.para{
+    color:blue;
+    font-size: 24px;
+}
+.newpara{
+    margin: 10px;
+}
