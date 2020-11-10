@@ -7,7 +7,8 @@ rollno : 12 };
 Sample Output: name,sclass,rollno
 ```
 ## 2. List all authors in the following code
-``` var library = [ 
+```
+var library = [ 
     {
         title: 'Bill Gates',
         author: 'The Road Ahead',
@@ -22,4 +23,4 @@ Sample Output: name,sclass,rollno
         title: 'Mockingjay: The Final Book of The Hunger Games',
         author: 'Suzanne Collins',
         readingStatus: false
-    }]; ```
+    }];
