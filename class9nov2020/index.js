@@ -1,3 +1,13 @@
+function addList() {
+    var x = document.getElementById('mydiv')
+    console.log(x.name)
+    x.className += ' origin'
+    var para = document.createElement('p')
+    var text = document.createTextNode('third para')
+    para.appendChild(text)
+    x.insertBefore(para, x.firstChild)
+
+}
 function addItem() {
    var li = document.createElement('li')  //<li></li>
    var textLi = document.createTextNode('eat an egg')
