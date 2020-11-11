@@ -14,3 +14,7 @@
 ## Presentation topics
 <https://docs.google.com/spreadsheets/d/1AcDNCsozaDlMr_Ug_76XVJbyjK6I97HGHsMOSuiPYwY/edit#gid=0>
 
+## MEAL FINDER
+<https://vanillawebprojects.com/projects/meal-finder/>
+<https://www.themealdb.com/api.php>
+
