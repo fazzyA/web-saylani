@@ -5,9 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meal Finder</title>
     <link href="style.css" rel="stylesheet">
-    <script src="index.js"></script>
 </head>
-
 <body>
     <header>
         <h1 class="title">Meal Finder</h1>
@@ -19,8 +17,12 @@
     </nav> -->
     <div class="wrapper">
         <div class="search">
+        <form id="submit1">
             <input type="text" id='search' value="soup">
-            <button onclick="searchRecipe()" type="submit">Find</button>
+            <button type="submit">Find</button>
+        </form>
+        <button onclick="searchRandom()">Random</button>
+
         </div>
         <div class="recipeBox">
             <div class="row" id="row">
@@ -55,6 +57,7 @@
 
     </div>
     <footer>&copy; 2020 Made by Faiza</footer>
+    <script src="index.js"></script>
 
 </body>
 
