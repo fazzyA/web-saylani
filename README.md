@@ -16,4 +16,5 @@
 
 ## MEAL FINDER
 <https://vanillawebprojects.com/projects/meal-finder/>
+<https://www.themealdb.com/api.php>
 
