@@ -1,0 +1,63 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        label, input{
+            margin: 10px;
+        }
+        button{
+            width: 200px;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mydiv"></div>
+
+    <button id="old">click</button>
+
+    <form onsubmit='return checkForm();'>
+        <div class="container">
+            <h1>Sign Up</h1>
+            <p>Please fill in this form to create an account.</p>
+            <hr>
+
+            <label for="name"><b>Name</b></label>
+            <input type="text" name="name" id="name">
+            <br>
+            <label for="last"><b>Last Name</b></label>
+            <input type="text" name="last" id="last">
+            <br>
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw">
+            <br>
+
+            <label for="psw-repeat">city</label>
+            <select id="city">
+                <option value=''>--please select city---</option>
+                <option value='khi'>Karachi</option>
+                <option value='isl'>Isl</option>
+                <option value='lhr'>Lahore</option>
+            </select>
+            <br>
+            <label for="gender">male</label>
+            <input type="radio" name="gender" id="gender" value="male">
+            
+            <label for="gender1">female</label>
+            <input type="radio" name="gender" id="gender1" value="female">
+
+
+
+            <div class="clearfix">
+                <button type="submit" class="signupbtn">Sign Up</button>
+            </div>
+        </div>
+    </form>
+    <script src="validation.js"></script>
+</body>
+
+</html>

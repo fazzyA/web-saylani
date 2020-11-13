@@ -17,9 +17,16 @@ var obj = {
     ],
     snacks: 'No snacks',
     drinks: ['pinacolada', 'coca cola', 'pepsi']
+} 
+function  facebook(){
+    window.location.href= 'https://www.facebook.com/'
 }
 
-console.log('snacks' in obj)
+console.log('snacks' in obj);
+var myNewWindow  = window.open();
+var content = '<h1 class="heading">New PopUp</h1>'
+myNewWindow.document.write(content)
+//myNewWindow.location.assign('new.html')
 
 
 
