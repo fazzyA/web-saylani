@@ -9,3 +9,5 @@ console.log(g)
 
 // [num1 , bb, cc, dd] = [10 ,20, 30, 40, 50 ,60,70];
 // console.log(num1)
+var obj = {  name:'faiza'}
+var obj2 = {  name:'faiza'}
