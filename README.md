@@ -21,4 +21,4 @@
 advance JS
 <https://docs.google.com/presentation/d/1scEVd9pD5eqw-0SBRTLwhxB0v2DzfIsWGzDPlVS7eqI/edit#slide=id.p>
 demo <http://shopping-cart1-faizaazizkhan.surge.sh/>  
-JS quiz <quiz-js-faizakhan.surge.sh/>
+JS quiz <http://quiz-js-faizakhan.surge.sh/>
