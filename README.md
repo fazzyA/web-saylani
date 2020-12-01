@@ -26,3 +26,7 @@ JS quiz <http://quiz-js-faizakhan.surge.sh/>
 ### Books <https://drive.google.com/drive/folders/1AXeZOxR-WnWp8gsiPFkiJ9PbjJClVZCQ?usp=sharing>
 Sample Api
 <https://jsonplaceholder.typicode.com/posts>
+
+## React Covid App
+<https://api.covid19api.com/>
+<https://covid19.mathdro.id/api>
