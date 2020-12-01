@@ -28,5 +28,5 @@ Sample Api
 <https://jsonplaceholder.typicode.com/posts>
 
 ## React Covid App
-<https://api.covid19api.com/>
+<https://api.covid19api.com/>  
 <https://covid19.mathdro.id/api>
