@@ -32,3 +32,5 @@ Sample Api
 <https://covid19.mathdro.id/api>
 ## practice covid app  
 <https://github.com/fazzyA/covid-sample-react/tree/master/Documents/MissFaizaReact/covid-app>
+## All react classes
+<https://github.com/fazzyA/learn-react>
