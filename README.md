@@ -30,3 +30,5 @@ Sample Api
 ## React Covid App
 <https://api.covid19api.com/>  
 <https://covid19.mathdro.id/api>
+##practice covid app  
+<https://github.com/fazzyA/covid-sample-react/tree/master/Documents/MissFaizaReact/covid-app>
