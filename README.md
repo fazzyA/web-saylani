@@ -34,3 +34,6 @@ Sample Api
 <https://github.com/fazzyA/covid-sample-react/tree/master/Documents/MissFaizaReact/covid-app>
 ## All react classes
 <https://github.com/fazzyA/learn-react>
+## Animation in react
+<https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss>
+<https://www.react-spring.io/docs/hooks>
