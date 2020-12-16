@@ -45,3 +45,5 @@ https://www.youtube.com/watch?v=kYyaJyTLjpk&t=40m26s
 ### home page, product page, addtocart button, cart, login, register
 ### class code
 <https://github.com/fazzyA/react-ecommerce>
+### fake product api
+<https://fakestoreapi.com/docs>
