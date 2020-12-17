@@ -47,3 +47,5 @@ https://www.youtube.com/watch?v=kYyaJyTLjpk&t=40m26s
 <https://github.com/fazzyA/react-ecommerce>
 ### fake product api
 <https://fakestoreapi.com/docs>
+### demo firebase by sabahat
+<https://github.com/sabahat767/Login-with-Firebase-Auth>
