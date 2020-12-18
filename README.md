@@ -49,3 +49,5 @@ https://www.youtube.com/watch?v=kYyaJyTLjpk&t=40m26s
 <https://fakestoreapi.com/docs>
 ### demo firebase by sabahat
 <https://github.com/sabahat767/Login-with-Firebase-Auth>
+## Redux with React
+<https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/edit#slide=id.g946dbafdc4_0_609>
