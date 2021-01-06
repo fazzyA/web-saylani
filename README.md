@@ -55,3 +55,66 @@ https://www.youtube.com/watch?v=kYyaJyTLjpk&t=40m26s
 <https://medium.com/@faz.pak/todo-app-with-react-and-redux-f91242ffa384>
 ## Express
 <https://docs.google.com/presentation/d/1shTZYcFZGgAfvvJdVFS2pdM7pVL1_CT8OjdMB_drrfc/edit?usp=sharing>
+console.log(a);
+var a = 5;
+console.log(a);
+console.log(a);
+let a = 5;
+console.log(a);
+Muhammad Khalid4:08 PM
+var , let, const
+Muhammad Khalid4:09 PM
+function a(){
+    let a = 5;
+
+    console.log(a);
+    let a = 5;
+
+    console.log(a);
+}
+function abc(){
+    let a = 5;
+
+    console.log(a);
+    let a = 5;
+
+    console.log(a);
+}
+abc()
+Muhammad Khalid4:10 PM
+function a(){
+    var a = 5;
+
+    console.log(a);
+    var a = 5;
+
+    console.log(a);
+}
+Muhammad Khalid4:11 PM
+const obj = {
+    name : "khalid"
+}
+
+obj.age = 23
+console.log(obj)
+obj = {
+class: "BS"}
+Muhammad Khalid4:13 PM
+for(var i = 0; i< 10; i++){
+setTimeout(()=>{
+    console.log(i);
+},0);
+}
+Muhammad Khalid4:15 PM
+9
+for(let i = 0; i< 10; i++){
+setTimeout(()=>{
+    console.log(i);
+},0);
+}
+Muhammad Khalid4:16 PM
+for(var i = 0; i< 10; i++){
+setTimeout((i)=>{
+    console.log(i);
+},0);
+}
