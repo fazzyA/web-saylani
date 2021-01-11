@@ -61,9 +61,9 @@ console.log(a);
 console.log(a);
 let a = 5;
 console.log(a);
-Muhammad Khalid4:08 PM
+
 var , let, const
-Muhammad Khalid4:09 PM
+
 function a(){
     let a = 5;
 
@@ -81,7 +81,7 @@ function abc(){
     console.log(a);
 }
 abc()
-Muhammad Khalid4:10 PM
+
 function a(){
     var a = 5;
 
@@ -90,7 +90,7 @@ function a(){
 
     console.log(a);
 }
-Muhammad Khalid4:11 PM
+
 const obj = {
     name : "khalid"
 }
@@ -99,20 +99,20 @@ obj.age = 23
 console.log(obj)
 obj = {
 class: "BS"}
-Muhammad Khalid4:13 PM
+
 for(var i = 0; i< 10; i++){
 setTimeout(()=>{
     console.log(i);
 },0);
 }
-Muhammad Khalid4:15 PM
+
 9
 for(let i = 0; i< 10; i++){
 setTimeout(()=>{
     console.log(i);
 },0);
 }
-Muhammad Khalid4:16 PM
+
 for(var i = 0; i< 10; i++){
 setTimeout((i)=>{
     console.log(i);
