@@ -97,8 +97,7 @@ const obj = {
 
 obj.age = 23
 console.log(obj)
-obj = {
-class: "BS"}
+obj = {name:'faiza'}
 
 for(var i = 0; i< 10; i++){
 setTimeout(()=>{
